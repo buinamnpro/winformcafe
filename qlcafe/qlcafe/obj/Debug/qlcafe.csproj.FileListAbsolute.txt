@@ -1,0 +1,13 @@
+D:\qlcafe\qlcafe\qlcafe\bin\Debug\qlcafe.exe.config
+D:\qlcafe\qlcafe\qlcafe\bin\Debug\qlcafe.exe
+D:\qlcafe\qlcafe\qlcafe\bin\Debug\qlcafe.pdb
+D:\qlcafe\qlcafe\qlcafe\obj\Debug\qlcafe.csproj.AssemblyReference.cache
+D:\qlcafe\qlcafe\qlcafe\obj\Debug\qlcafe.login.resources
+D:\qlcafe\qlcafe\qlcafe\obj\Debug\qlcafe.Properties.Resources.resources
+D:\qlcafe\qlcafe\qlcafe\obj\Debug\qlcafe.csproj.GenerateResource.cache
+D:\qlcafe\qlcafe\qlcafe\obj\Debug\qlcafe.csproj.CoreCompileInputs.cache
+D:\qlcafe\qlcafe\qlcafe\obj\Debug\qlcafe.exe
+D:\qlcafe\qlcafe\qlcafe\obj\Debug\qlcafe.pdb
+D:\qlcafe\qlcafe\qlcafe\obj\Debug\qlcafe.maintable.resources
+D:\qlcafe\qlcafe\qlcafe\obj\Debug\qlcafe.admin.resources
+D:\qlcafe\qlcafe\qlcafe\obj\Debug\qlcafe.faccout.resources
